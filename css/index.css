@@ -1,0 +1,21 @@
+body{
+    background-color: #EC7063;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.fondo{
+    background-color: #fff;
+}
+header{
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer{
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
